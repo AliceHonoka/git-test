@@ -1,0 +1,1 @@
+console.log('开发完了ModuleA的功能1');
